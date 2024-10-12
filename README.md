@@ -36,7 +36,7 @@ SkySync is a weather forecasting app that provides accurate and up-to-date weath
 
 ## Live Demo
 
-Check out the live version of SkySync: _[Live Link]_ (add your live link here)
+Check out the live version of SkySync: _[Live Link](https://skysync-weather-forecasting-app.netlify.app)
 
 ## Getting Started
 
@@ -44,12 +44,26 @@ Follow these instructions to set up and run the project locally.
 
 ### Prerequisites
 
-- Node.js installed on your machine.
+- **Node.js**: You can download and install Node.js from [here](https://nodejs.org/). It includes npm (Node Package Manager), which you'll use to install the project dependencies.
 
 ### Installation
 
-1. Clone the repository:
+1.Clone the repository:
    ```bash
-   git clone https://github.com/your-username/skysync.git
-   cd skysync
+   git clone https://github.com/SathishKumar-2004/Weather-Forecasting-app.git
+   ```
+
+2.Navigate to the folder:
+   ```bash
+   cd Weather-Forecasting-app
+   ```
+
+### Install Dependencies:
+   ```bash
+   npm install
+   ```
+
+### Start the Development Server:
+   ```bash
+   npm run dev
    ```
