@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { getWeatherDataByCity } from "./api";
+import Search from "./components/Search/Search";
 import LeftNav from "./Components/LeftNav/LeftNav";
 import "./App.css";
 import Week from "./Components/ForeCast/Week";
