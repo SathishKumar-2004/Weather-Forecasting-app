@@ -1,11 +1,10 @@
 import React, { useState } from "react";
 import { getWeatherDataByCity } from "./api";
-import Search from "./components/Search/Search";
 import LeftNav from "./Components/LeftNav/LeftNav";
 import "./App.css";
 import Week from "./Components/ForeCast/Week";
 import Home from "./Components/HomePage/Home";
-import Search from "./components/Search/Search";
+import Search from "./Components/Search/Search";
 
 const App = () => {
   const [weatherData, setWeatherData] = useState(null);
