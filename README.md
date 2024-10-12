@@ -49,8 +49,9 @@ Follow these instructions to set up and run the project locally.
 ### Installation
 
 1. Clone the repository:
-     ```bash
-   git clone https://github.com/SathishKumar-2004/Weather-Forecasting-app.git
+   ```bash
+     git clone https://github.com/SathishKumar-2004/Weather-Forecasting-app.git
+   ```
 
 2.Navigate to the folder:
    ```bash
