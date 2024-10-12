@@ -44,11 +44,25 @@ Follow these instructions to set up and run the project locally.
 
 ### Prerequisites
 
-- Node.js installed on your machine.
+- **Node.js**: You can download and install Node.js from [here](https://nodejs.org/). It includes npm (Node Package Manager), which you'll use to install the project dependencies.
 
 ### Installation
 
 1. Clone the repository:
+     ```bash
+   git clone https://github.com/SathishKumar-2004/Weather-Forecasting-app.git
+
+2.Navigate to the folder:
    ```bash
-   [git clone https://github.com/SathishKumar-2004/Weather-Forecasting-app.git]
+   cd Weather-Forecasting-app
+   ```
+
+### Install Dependencies:
+   ```bash
+   npm install
+   ```
+
+### Start the Development Server:
+   ```bash
+   npm run dev
    ```
