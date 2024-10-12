@@ -11,7 +11,7 @@ body::before {
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: url('../public/weather-bg.jpeg');
+  background-image: url('https://t3.ftcdn.net/jpg/05/79/86/10/360_F_579861052_KjeAAbyaXOBY6JjxMEPBVJypp2KSb59v.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
