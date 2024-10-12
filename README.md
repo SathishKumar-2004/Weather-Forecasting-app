@@ -50,6 +50,5 @@ Follow these instructions to set up and run the project locally.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/skysync.git
-   cd skysync
+   [git clone https://github.com/SathishKumar-2004/Weather-Forecasting-app.git]
    ```
