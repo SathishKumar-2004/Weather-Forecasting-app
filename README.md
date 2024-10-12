@@ -36,7 +36,7 @@ SkySync is a weather forecasting app that provides accurate and up-to-date weath
 
 ## Live Demo
 
-Check out the live version of SkySync: _[Live Link]_ (add your live link here)
+Check out the live version of SkySync: _[Live Link](https://skysync-weather-forecasting-app.netlify.app)
 
 ## Getting Started
 
