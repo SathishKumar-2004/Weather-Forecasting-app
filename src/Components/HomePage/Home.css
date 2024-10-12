@@ -13,20 +13,7 @@ body {
   color: #fff; /* Set default text color */
 }
 
-body::before {
-  content: "";
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-image: url('weather bg.jpg');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  filter: brightness(50%); /* Adjust brightness */
-  z-index: -1; /* Keeps the background behind the content */
-}
+
 
 .title{
   font-size: 40px;
