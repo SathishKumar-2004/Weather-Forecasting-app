@@ -18,7 +18,17 @@ SkySync is a weather forecasting app that provides accurate and up-to-date weath
 
 ## Screenshots
 
-_Add screenshots here to showcase your app UI and charts._
+### Home Page
+![Home Page](public/app img -1.png)
+
+### Weather Details
+![Weather](public/app img-2.png)
+
+### Bar Chart
+![bar chart](public/app img-3.png)
+
+### Pie Chart
+![pie chart](public/app img-4.png)
 
 ## Live Demo
 
