@@ -7,7 +7,7 @@
 
 body {
   min-height: 100vh; 
-  background-image: url('weather bg.jpeg');
+  background-image: url('../public/weather-bg.jpeg');
   background-size: cover;
   background-position: center;
   color: #fff; /* Set default text color */
